@@ -8,6 +8,7 @@
 		<input type="text" name="phone_no" placeholder="Phone No."><br>
 		<label for="amount">Amount</label><br>
 		<input type="text" name="amount" placeholder="Amount">
+		<input type="submit" name="submit" value="Submit">
 	</form>
 </body>
 </html>
